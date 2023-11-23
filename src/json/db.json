@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "South Park: Post Covid - The Return of Covid",
+        "capa": "https://m.media-amazon.com/images/M/MV5BOTg5MjczMzQtZTA0Ny00OWQ1LThjNTMtYzQzYTliNzJhNjlmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "South Park: O Filme",
+        "capa": "https://images.justwatch.com/poster/176218032/s718/south-park-bigger-longer-and-uncut.jpg",
+        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "South Park: A Guerra do Streaming",
+        "capa": "https://br.web.img2.acsta.net/pictures/22/06/15/19/11/4646100.jpg",
+        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "titulo": "South Park: Joining The Panderverse",
+        "capa": "https://deadline.com/wp-content/uploads/2023/10/south-Park-new-exclusive-event.jpg?w=691",
+        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
     }
 ]
