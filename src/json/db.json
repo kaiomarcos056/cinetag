@@ -1,26 +1,28 @@
-[
-    {
-        "id": 1,
-        "titulo": "South Park: Post Covid - The Return of Covid",
-        "capa": "https://m.media-amazon.com/images/M/MV5BOTg5MjczMzQtZTA0Ny00OWQ1LThjNTMtYzQzYTliNzJhNjlmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
-        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
-    },
-    {
-        "id": 2,
-        "titulo": "South Park: O Filme",
-        "capa": "https://images.justwatch.com/poster/176218032/s718/south-park-bigger-longer-and-uncut.jpg",
-        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
-    },
-    {
-        "id": 3,
-        "titulo": "South Park: A Guerra do Streaming",
-        "capa": "https://br.web.img2.acsta.net/pictures/22/06/15/19/11/4646100.jpg",
-        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
-    },
-    {
-        "id": 4,
-        "titulo": "South Park: Joining The Panderverse",
-        "capa": "https://deadline.com/wp-content/uploads/2023/10/south-Park-new-exclusive-event.jpg?w=691",
-        "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
-    }
-]
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "South Park: Post Covid - The Return of Covid",
+            "capa": "https://m.media-amazon.com/images/M/MV5BOTg5MjczMzQtZTA0Ny00OWQ1LThjNTMtYzQzYTliNzJhNjlmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+            "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
+        },
+        {
+            "id": 2,
+            "titulo": "South Park: O Filme",
+            "capa": "https://images.justwatch.com/poster/176218032/s718/south-park-bigger-longer-and-uncut.jpg",
+            "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
+        },
+        {
+            "id": 3,
+            "titulo": "South Park: A Guerra do Streaming",
+            "capa": "https://br.web.img2.acsta.net/pictures/22/06/15/19/11/4646100.jpg",
+            "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
+        },
+        {
+            "id": 4,
+            "titulo": "South Park: Joining The Panderverse",
+            "capa": "https://deadline.com/wp-content/uploads/2023/10/south-Park-new-exclusive-event.jpg?w=691",
+            "link": "https://www.youtube.com/embed/Zk6sMGryJZE?si=RrQ-0ipmlYXNsB1o"
+        }
+    ]
+}
